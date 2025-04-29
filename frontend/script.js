@@ -1,5 +1,6 @@
 
-const apiUrl = const apiUrl = ""; // Change if backend URL is different
+ const apiUrl = ""; // Change if backend URL is different
+ = ""; // Change if backend URL is different
 
 // Handle login
 if (document.getElementById('loginForm')) {
