@@ -1,5 +1,5 @@
 
-const apiUrl = "http://localhost:3000"; // Change if backend URL is different
+const apiUrl = const apiUrl = ""; // Change if backend URL is different
 
 // Handle login
 if (document.getElementById('loginForm')) {
